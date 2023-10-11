@@ -1,0 +1,9 @@
+npm create vite@latest
+
+npm install @reduxjs/toolkit 
+npm install react-redux    
+npm install react-router-dom
+npm install appwrite 
+npm install @tinymce/tinymce-react
+npm install html-react-parser
+npm install react-hook-form
